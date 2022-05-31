@@ -5,12 +5,13 @@ Ira
 
 How do you do
 Ok
-<<<<<<< HEAD
 
 new content here
 and here
 
 Two couplet
+
+Three couplet
 
 
 
